@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+mlxtend
+statsmodels
+xgboost
+networkx
+python-louvain
+jupyter
